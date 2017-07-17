@@ -1,0 +1,1 @@
+docker build -t="lxg1208/tomcat:7.0" .
