@@ -1,0 +1,1 @@
+docker build -t="lxg1208/jdk:1.7" .
